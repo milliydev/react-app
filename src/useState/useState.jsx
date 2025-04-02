@@ -11,7 +11,7 @@ function State() {
     return (
         <div className="App">
             <h1>My name is {name}</h1>
-            <button onClick={handleClick}>Change Name</button>
+            <button onClick={handleClick}>Change Nakme</button>
         </div>
     );
 }
